@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.iamgroot.library","c":"ImGrootConfig","l":"ImGrootConfig()","u":"%3Cinit%3E()"},{"p":"com.iamgroot.library","c":"ImGrootConfig","l":"monitorTime(ProceedingJoinPoint)","u":"monitorTime(org.aspectj.lang.ProceedingJoinPoint)"}];updateSearchResults();
