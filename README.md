@@ -14,4 +14,4 @@ Add the following dependency to your project
 
 ## Documentation
 
-Refer the docs on
+[Refer the Detailed Documentation](https://blckpnthr.github.io/performance-manager/com/iamgroot/library/package-summary.html)
